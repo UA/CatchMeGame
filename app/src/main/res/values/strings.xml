@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchMeGame</string>
+    <string name="time">Time: 30</string>
+    <string name="score">Score: 0</string>
+</resources>
